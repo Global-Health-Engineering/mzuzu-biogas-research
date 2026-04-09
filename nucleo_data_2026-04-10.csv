@@ -1,0 +1,3 @@
+timestamp,battery_mv,die_temp_c,tank_top_c,tank_temp_start_c,tank_temp_bottom_c,tank_temp_end_c
+2026-04-10T00:00:38.537855,13015,23.284,78.062,69.75,20.625,69.75
+2026-04-10T00:05:44.868062,12959,23.604,77.937,69.875,20.687,69.875
