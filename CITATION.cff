@@ -3,7 +3,7 @@ message: "To cite this repository, use:"
 license: MIT
 title: "Solar Sludge Pasteurization Control System"
 date-released: "2026-05-27"
-doi: XXX
+doi: 10.5281/zenodo.20407897
 type: software
 authors:
   - family-names: Polat

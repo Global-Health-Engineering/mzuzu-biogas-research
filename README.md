@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20407897.svg)](https://doi.org/10.5281/zenodo.20407897)
+
 # Solar Sludge Pasteurization Control System
 
 This repository contains the engineering files, firmware, and analysis scripts for a solar-powered sludge pasteurization system deployed in Mzuzu, Malawi. The system automates the thermal treatment of anaerobic digester effluent to ensure safe, pathogen-free discharge.
