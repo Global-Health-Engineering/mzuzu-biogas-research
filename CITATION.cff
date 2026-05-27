@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "To cite this repository, use:"
+license: MIT
+title: "Solar Sludge Pasteurization Control System"
+date-released: "2026-05-27"
+doi: XXX
+type: software
+authors:
+  - family-names: Polat
+    given-names: Recep
+    email: rpolat@student.ethz.ch
+  - family-names: Tkaczuk
+    given-names: Jakub
+    email: jtkaczuk@ethz.ch
+    orcid: https://orcid.org/0000-0001-7997-9423
+  - family-names: Tilley
+    given-names: Elizabeth
+    email: tilleye@ethz.ch
+    orcid: https://orcid.org/0000-0002-2095-9724
+contact:
+  - family-names: Polat
+    given-names: Recep
+    email: rpolat@student.ethz.ch
+version: 0.0.1
