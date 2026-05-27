@@ -31,7 +31,10 @@ fp-info-cache
 
 # Exported BOM files
 *.xml
+<<<<<<< HEAD
 *.csv
+=======
+>>>>>>> 4549121a (transfered private git repo files to the ghe repo)
 
 # Archived Backups (KiCad 6.0)
 **/*-backups/*.zip
