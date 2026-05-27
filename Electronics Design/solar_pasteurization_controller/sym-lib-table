@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "kicad_symbols_library")(type "KiCad")(uri "${KIPRJMOD}/kicad_symbols_library.kicad_sym")(options "")(descr ""))
+  (lib (name "solar_pasteurization_controller")(type "KiCad")(uri "${KIPRJMOD}/solar_pasteurization_controller.kicad_sym")(options "")(descr ""))
+)

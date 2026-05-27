@@ -1,0 +1,25 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Zephyr Attach via West Debugserver",
+            "type": "cortex-debug",
+            "request": "attach",
+            "servertype": "external",
+            "cwd": "${workspaceFolder}",
+            "executable": "${workspaceFolder}/build/zephyr/zephyr.elf",
+            "gdbPath": "/home/rejojojo/zephyr-sdk-0.17.0/arm-zephyr-eabi/bin/arm-zephyr-eabi-gdb",
+            "device": "STM32L432KC",
+            //"runToEntryPoint": "main",
+            //"showDevDebugOutput": "raw",
+            "armToolchainPath": "/home/rejojojo/zephyr-sdk-0.17.0/arm-zephyr-eabi/bin",
+            "debuggerArgs": [],
+            "preLaunchCommands": [
+                "monitor reset halt"
+            ],
+            "gdbTarget": "localhost:3333",
+            "registerUseNaturalFormat": true,
+            "variableUseNaturalFormat": true
+        }
+    ]
+}
